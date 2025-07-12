@@ -145,6 +145,8 @@ Now we’re ready to launch the installer.
   * Set **ext4** format
   * Set mount point to `/`
 
+> **ext4** is an example of a Linux file system and is generally recommended for most users.
+
 4. Continue through the installer
 5. Once installation finishes, reboot
 
